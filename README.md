@@ -72,15 +72,10 @@ Prem0304.csv: Contains match-by-match data for the 2003/2004 Premier League seas
 Original data from: https://www.football-data.co.uk/englandm.php
 
 ## Notable Analyses
-Arsenal's Invincible Season:
-Special focus on Arsenal's unbeaten run.
 
-## Wolves and Leeds:
-Season breakdowns and performance summaries.
-
-## Visual Insights:
-Multiple charts and heatmaps for easy interpretation.
-
+- **Arsenal's Invincible Season:** Special focus on Arsenal's unbeaten run.
+- **Wolves and Leeds:** Season breakdowns and performance summaries.
+- **Visual Insights:** Multiple charts and heatmaps for easy interpretation.
 ## License
 This project is for educational and analytical purposes. Data is provided for non-commercial use.
 
