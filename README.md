@@ -79,4 +79,4 @@ Original data from: https://www.football-data.co.uk/englandm.php
 ## License
 This project is for educational and analytical purposes. Data is provided for non-commercial use.
 
-Created by Lanthanum89 ``````
+Created by Lanthanum89
